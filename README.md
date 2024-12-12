@@ -133,5 +133,5 @@ In the `AuthenticatedPage.aspx` file, use the Descope Web SDK to handle user aut
 For any issues or suggestions, please [open an issue](https://github.com/descope-sample-apps/dotnet-4.8-sample-app/issues) on GitHub.
 
 ## License 📜
-
+## Something changed
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
